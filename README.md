@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asac00
+- 👋 Hi, I’m Asac
 - 👀 I’m interested in Rugby, Mathematics and Computer science
 - 🌱 I’m currently learning Java, Python and C#
 
